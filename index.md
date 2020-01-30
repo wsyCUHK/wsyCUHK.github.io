@@ -1,5 +1,5 @@
 ## Shuoyao Wang- Homepage
-![证件照](/ShuoyaoWang.jpg){:height="20%" width="20%"}
+ <img src="./ShuoyaoWang.jpg" width = "50" alt="Photo" align=left />
 - Senior Researcher
 - Tencent, Department of Anti-money Laundering and Riskmanagement
 - B.Eng, PhD@CUHK
