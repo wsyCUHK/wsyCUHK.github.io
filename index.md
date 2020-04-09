@@ -1,7 +1,7 @@
 ## Shuoyao Wang- Homepage
 <table>
 <tr>
-<th> ![Photo](./gongzuozheng_small.jpg)</th>
+<th> <img src="./gongzuozheng_small.jpg" alt="Photo" width="150"> </th>
 <th> - Assistant Professor
 - College of Electronic and Information Engineering, Shenzhen University
 - B.Eng, PhD@CUHK
