@@ -10,12 +10,9 @@ College of Electronic and Information Engineering <br>
 Shenzhen University <br>
 <a href="https://scholar.google.com.hk/citations?user=Bx2v5H8AAAAJ&amp;hl=en" rel="nofollow">[Google Scholar]</a>
 <a href="https://github.com/wsycuhk.github.io">[Github]</a></p>
-</td></tr></tbody></table>
+</td></tr></tbody>
+</table>
 
-<style>
-.first {border-bottom:1px solid #EEE;}
-.second {border-top:1px solid #CCC;}
-</style>
 
 ## Recent News
 Our paper "Locational detection of false data injection attack in smart grid: a multi-label classification approach" is accepted by IEEE Internet of Things Journal. The data and implementation cound be find in [github](https://github.com/wsyCUHK/WSYCUHK_FDIA).
