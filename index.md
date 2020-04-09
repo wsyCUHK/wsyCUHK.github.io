@@ -2,7 +2,7 @@
     <div class="left">
         <div align="right" class="col-md-4">
             <a target="_blank" href="./ShuoyaoWang.jpg">
-                <img id="mobile-img" src="./ShuoyaoWang.jpg" width="263" border="0" height="230" alt=""></a>
+                <img id="mobile-img" src="./ShuoyaoWang.jpg" width="150" border="0" alt=""></a>
         </div>
         <div align="left" class="col-md-5">
             <h2>Shuoyao Wang 王朔遥 </h2>
