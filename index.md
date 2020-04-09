@@ -1,4 +1,4 @@
-<table border rules='none' cellspacing='0' align='center'><tr><td>
+<table frame=void><tr><td>
   <a href="./ShuoyaoWang.jpg"><img src="./ShuoyaoWang.jpg" alt="Photo" width="150"></a>&nbsp; </td>
  <td align="left"><p>Assistant Professor (tenure-track) <br />
 B.Eng, PhD@CUHK <br />
