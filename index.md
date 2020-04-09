@@ -1,9 +1,8 @@
 <center class="half">
-  <img src="./ShuoyaoWang.jpg" alt="Photo" width="150">
-  - Assistant Professor (tenure-track)
+  <img src="./ShuoyaoWang.jpg" alt="Photo" width="150"><p>Assistant Professor (tenure-track)</p>
 </center>
 <table border="0" cellpadding="0" cellspacing="0" width="0">
-<tbody border="0">
+<tbody colspan="0">
 <tr border="0">
 <td class="first">
 <a href="./ShuoyaoWang.jpg"><img src="./ShuoyaoWang.jpg" alt="Photo" width="150" style="max-width:100%;"></a>  </td>
