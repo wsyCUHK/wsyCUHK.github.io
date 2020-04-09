@@ -1,9 +1,9 @@
 <table border="0" cellpadding="0" cellspacing="0">
-<tbody>
-<tr>
-<td>
+<tbody border="0">
+<tr border="0">
+<td border="0">
 <a href="./ShuoyaoWang.jpg"><img src="./ShuoyaoWang.jpg" alt="Photo" width="150" style="max-width:100%;"></a>  </td>
-<td align="left">
+<td align="left" border="0">
   <p>Assistant Professor (tenure-track) <br>
 B.Eng, PhD@CUHK <br>
 College of Electronic and Information Engineering <br>
