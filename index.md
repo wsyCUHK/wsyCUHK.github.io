@@ -3,14 +3,14 @@
 <div align="left" class="col-md-5">
    <h4><a target="_blank" href="./ShuoyaoWang.jpg">
 <img id="mobile-img" src="./ShuoyaoWang.jpg" width="150" border="0" alt=""></a></h4>
-         <h4> 
+         <p> 
             	<a href="https://profiles.stanford.edu/211069">Assistant Professor (tenure-track)</a><br>
                 <a href="http://ceie.szu.edu.cn/szucie/">College of Electronic and Information Engineering</a><br>
                 <a href="https://www.szu.edu.cn/">Shenzhen University</a><br>
               Email: <a class="lnkcls" href="mailto:w.shuoy@gmail.com">Click</a> to email me.<br/>
                 B.Eng, PhD@CUHK <br />    
                 Google Scholar: <a target="_blank" href="https://scholar.google.com.hk/citations?user=Bx2v5H8AAAAJ&amp;hl=en">Click for Google Scholar</a><br>
-                Github: <a target="_blank" href="https://github.com/wsycuhk.github.io">Click for Github Page</a><br></h4>
+                Github: <a target="_blank" href="https://github.com/wsycuhk.github.io">Click for Github Page</a><br></p>
 </div>
 </section>
 
