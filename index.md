@@ -2,10 +2,10 @@
     <div class="left">
         <div align="right" class="col-md-4">
             <a target="_blank" href="./ShuoyaoWang.jpg">
-                <img id="mobile-img" src="images//ShuoyaoWang.jpg" width="263" border="0" height="230" alt=""></a>
+                <img id="mobile-img" src="./ShuoyaoWang.jpg" width="263" border="0" height="230" alt=""></a>
         </div>
         <div align="left" class="col-md-5">
-            <h2>Shuoyao Wang 王朔遥            </h2>
+            <h2>Shuoyao Wang 王朔遥 </h2>
             <h4> 
             	<a href="https://profiles.stanford.edu/211069">Assistant Professor (tenure-track)</a><br>
                 <a href="http://ceie.szu.edu.cn/szucie/">College of Electronic and Information Engineering</a><br>
