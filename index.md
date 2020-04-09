@@ -1,14 +1,3 @@
-<table border="0" cellpadding="0" cellspacing="0"><tr><td>
-  <a href="./ShuoyaoWang.jpg"><img src="./ShuoyaoWang.jpg" alt="Photo" width="150"></a>&nbsp; </td>
- <td align="left"><p>Assistant Professor (tenure-track) <br />
-B.Eng, PhD@CUHK <br />
-College of Electronic and Information Engineering <br />
-Shenzhen University <br />
-<a href="https://scholar.google.com.hk/citations?user=Bx2v5H8AAAAJ&amp;hl=en">[Google Scholar]</a>
-<a href="https://github.com/wsycuhk.github.io">[Github]</a></p>
-</td></tr></table>
-
-<!-- Home Section -->
 <section  name="home" id="home" style="margin-top:50px">
     <div class="left">
         <div align="right" class="col-md-4">
@@ -16,63 +5,15 @@ Shenzhen University <br />
                 <img id="mobile-img" src="images//ShuoyaoWang.jpg" width="263" border="0" height="230" alt=""></a>
         </div>
         <div align="left" class="col-md-5">
-            <h2>Shuoyao Wang 王朔遥
-                <!-- <h5><i>PhD, U. of California - Riverside, USA, 2005</i></h5>-->
-            </h2>
+            <h2>Shuoyao Wang 王朔遥            </h2>
             <h4> 
             	<a href="https://profiles.stanford.edu/211069">Assistant Professor (tenure-track)</a><br>
                 <a href="http://ceie.szu.edu.cn/szucie/">College of Electronic and Information Engineering</a><br>
                 <a href="https://www.szu.edu.cn/">Shenzhen University</a><br>
-                <!--
-                 P.O. Box 20537<br>
-                 1678 Nicosia, CYPRUS<br>-->
-                <!-- Mobile: <a href="tel:0012066585012">(206) 6585012</a> <a href="tel:0012066585012"></a><br/> -->
-                Email: <a class="lnkcls" href="mailto:w.shuoy@gmail.com">Click</a> to email me.
-                <!--<script language="JavaScript">
-                    document.write("&nbsp;");
-                    spiderjam('haowang6','stanford.edu');
-                    </script>
-                -->
-                <br/>
+              Email: <a class="lnkcls" href="mailto:w.shuoy@gmail.com">Click</a> to email me.<br/>
                 B.Eng, PhD@CUHK <br />    
                 Google Scholar: <a target="_blank" href="https://scholar.google.com.hk/citations?user=Bx2v5H8AAAAJ&amp;hl=en">Click for Google Scholar</a><br>
-                Github: <a target="_blank" href="https://github.com/wsycuhk.github.io">Click for Github Page</a><br>
-                
-            </h4>
-</div>
-        
-        
-
-        <!-- news -->
-        <!--
-        <i class="twittertop" style="display:none;" id="t1">
-            <div id="news" tyle="text-align: left"  class="col-md-5">&nbsp;
-                <center><a class="twitter-timeline" href="https://twitter.com/dmslucy" data-chrome="nofooter" data-widget-id="346662554203992065" data-width="900"
-                    data-height="300">Tweets
-                    by @dmslucy</a>
-                <script>!function (d, s, id) {
-                    var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https';
-                    if (!d.getElementById(id)) {
-                        js = d.createElement(s);
-                        js.id = id;
-                        js.src = p + "://platform.twitter.com/widgets.js";
-                        fjs.parentNode.insertBefore(js, fjs);
-                    }
-                }(document, "script", "twitter-wjs");</script></center>
-            </div>
-        </i>
-        -->
-
-
-        
-        <!--<p><a href="#" class="btn btn-primary">More &raquo;</a></p>-->
- <b class="expandshow" style="display:none;" id="tab-1">
-            <button class="btn btn-primary btn-lg btn-block" style="width: 100%;" onclick="javascript:$('.allshow').show();$('.noshow').hide();$('.collapseshow').show();$('.expandshow').hide();">EXPAND ALL SECTIONS <span class="glyphicon glyphicon-chevron-down"></span></button>
-        </b>
-        <b class="collapseshow" style="display:none;" id="tab-1">
-            <button class="btn btn-primary btn-lg btn-block" style="display: block; width: 100%;" onclick="javascript:$('.allshow').hide();$('.noshow').show();$('.expandshow').show();$('.collapseshow').hide();">COLLAPSE ALL SECTIONS <span class="glyphicon glyphicon-chevron-up"></span></button>
-        </b>
-        
+                Github: <a target="_blank" href="https://github.com/wsycuhk.github.io">Click for Github Page</a><br></h4>
 </div>
 </section>
 
