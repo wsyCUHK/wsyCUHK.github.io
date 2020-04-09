@@ -1,9 +1,9 @@
 <table border="0" cellpadding="0" cellspacing="0">
 <tbody border="0">
 <tr border="0">
-<td border="0">
+<td class="first">
 <a href="./ShuoyaoWang.jpg"><img src="./ShuoyaoWang.jpg" alt="Photo" width="150" style="max-width:100%;"></a>  </td>
-<td align="left" border="0">
+<td class="second" align="left">
   <p>Assistant Professor (tenure-track) <br>
 B.Eng, PhD@CUHK <br>
 College of Electronic and Information Engineering <br>
@@ -12,6 +12,10 @@ Shenzhen University <br>
 <a href="https://github.com/wsycuhk.github.io">[Github]</a></p>
 </td></tr></tbody></table>
 
+<style>
+.first {border-bottom:1px solid #EEE;}
+.second {border-top:1px solid #CCC;}
+</style>
 
 ## Recent News
 Our paper "Locational detection of false data injection attack in smart grid: a multi-label classification approach" is accepted by IEEE Internet of Things Journal. The data and implementation cound be find in [github](https://github.com/wsyCUHK/WSYCUHK_FDIA).
