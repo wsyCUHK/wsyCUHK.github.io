@@ -39,4 +39,4 @@ Shuoyao Wang received the B.Eng. degree (with first class Hons.) and the Ph.D de
 - **S. Wang**, S. Bi, and Y. J. Zhang, "The impacts of energy customers demand response on real-time electricity market participants," IEEE ICC, Kansas City, MO, USA, May 2018. 
 
 ### Patent
-王朔遥; 基于人工智能的词汇挖掘方法、装置、服务器及存储介质, 2019-08-16，中国专利 2019107607855
+- **王朔遥**; 基于人工智能的词汇挖掘方法、装置、服务器及存储介质, 2019-08-16，中国专利 2019107607855
