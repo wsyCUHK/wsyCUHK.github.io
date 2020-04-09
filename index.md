@@ -1,4 +1,4 @@
-<table class="imgtable" border="1" width="80%" frame="void"><tr><td>
+<table class="imgtable" border="0" cellspacing="0" cellpadding="0"><tr><td>
   <a href="./ShuoyaoWang.jpg"><img src="./ShuoyaoWang.jpg" alt="Photo" width="150"></a>&nbsp; </td>
  <td align="left"><p>Assistant Professor (tenure-track) <br />
 B.Eng, PhD@CUHK <br />
