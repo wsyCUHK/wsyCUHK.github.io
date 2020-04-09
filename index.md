@@ -1,19 +1,22 @@
 ## Shuoyao Wang- Homepage
 <table>
 <tr>
-<th> Good </th>
-<th> Bad </th>
-</tr>
-<tr>
-<td>
-![Photo](./gongzuozheng_small.jpg)
-
-- Assistant Professor
+<th> ![Photo](./gongzuozheng_small.jpg)</th>
+<th> - Assistant Professor
 - College of Electronic and Information Engineering, Shenzhen University
 - B.Eng, PhD@CUHK
 - [Google Scholar](https://scholar.google.com/citations?user=RYG-gYYAAAAJ&hl=en)
 - [GitHub](https://github.com/wsyCUHK)
-- Email: w.shuoy@gmail.com
+- Email: w.shuoy@gmail.com </th>
+</tr>
+<tr>
+<td>
+</td>
+</tr>
+</table
+
+
+
 
 ## Recent News
 Our paper "Locational detection of false data injection attack in smart grid: a multi-label classification approach" is accepted by IEEE Internet of Things Journal. The data and implementation cound be find in [github](https://github.com/wsyCUHK/WSYCUHK_FDIA) 
