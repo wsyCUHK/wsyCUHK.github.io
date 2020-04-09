@@ -1,21 +1,13 @@
 ## Shuoyao Wang- Homepage
-<table>
-<tr>
-<th> 
-  <a href="./ShuoyaoWang.jpg"><img src="./ShuoyaoWang.jpg" alt="Photo" width="150"></a>&nbsp; </th>
-<th> 
+<table class="imgtable"><tr><td>
+  <a href="./ShuoyaoWang.jpg"><img src="./ShuoyaoWang.jpg" alt="Photo" width="150"></a>&nbsp; </td>
  <td align="left"><p>Assistant Professor (tenure-track) <br />
 B.Eng, PhD@CUHK <br />
 College of Electronic and Information Engineering, Shenzhen University <br />
 <a href="https://scholar.google.com.hk/citations?user=Bx2v5H8AAAAJ&amp;hl=en">[Google Scholar]</a>
 <a href="https://github.com/wsycuhk.github.io">[Github]</a></p>
-</td>
-</tr>
-<tr>
-<td>
-</td>
-</tr>
-</table
+</td></tr></table>
+
 
 
 
