@@ -3,7 +3,7 @@
 <div align="left" class="col-md-5" width='150'>
   <a target="_blank" href="./ShuoyaoWang.jpg">
 <img id="mobile-img" src="./ShuoyaoWang.jpg" width="150" border="0" alt=""></a></div>
-    <div align="left" class="col-md-4"> 
+    <div align="left" class="col-md-4" width='250'> 
             	<a href="https://profiles.stanford.edu/211069">Assistant Professor (tenure-track)</a><br>
                 <a href="http://ceie.szu.edu.cn/szucie/">College of Electronic and Information Engineering</a><br>
                 <a href="https://www.szu.edu.cn/">Shenzhen University</a><br>
