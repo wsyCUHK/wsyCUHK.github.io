@@ -1,5 +1,5 @@
 ## Shuoyao Wang- Homepage
-![Photo-w150](./ShuoyaoWang.jpg)
+![Photo-w50](./ShuoyaoWang.jpg)
 
 - Assistant Professor
 - College of Electronic and Information Engineering, Shenzhen University
