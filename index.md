@@ -1,6 +1,6 @@
 <section  name="home" id="home" style="margin-top:50px">
     <div class="left">
-        <div align="right" class="col-md-4">
+        <div align="left" class="col-md-4">
             <a target="_blank" href="./ShuoyaoWang.jpg">
             <img id="mobile-img" src="./ShuoyaoWang.jpg" width="150" border="0" alt=""></a>
         </div>
