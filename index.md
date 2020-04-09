@@ -1,4 +1,8 @@
-<table border="0" cellpadding="0" cellspacing="0">
+<center class="half">
+  <img src="./ShuoyaoWang.jpg" alt="Photo" width="150">
+  - Assistant Professor (tenure-track)
+</center>
+<table border="0" cellpadding="0" cellspacing="0" width="0">
 <tbody border="0">
 <tr border="0">
 <td class="first">
