@@ -1,89 +1,254 @@
-<!DOCTYPE html>
-<head>
-<script src="https://use.fontawesome.com/baff6f55f5.js"></script>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Shuoyao Wang</title>
 
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/github-light.css">
-	<link rel="shortcut icon" href="http://ncel.ie.cuhk.edu.hk/sites/all/themes/zeropoint/favicon.ico" type="image/vnd.microsoft.icon" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+ <!DOCTYPE html>
 
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+<html><head>
+<title>Shuoyao Wang</title>
 
-      ga('create', 'UA-29643011-3', 'auto');
-      ga('send', 'pageview');
-    </script>
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 
-    <!-- For all browsers -->
-    <link rel="stylesheet" href="assets/css/academicons.min.css"/>
-    <link rel="stylesheet" href="assets/css/academicons.css"/>
+<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+
+<style type="text/css">
+ @import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,600italic");
+
+
+	body
+	{
+	font-family:"Roboto",Helvetica,Arial,sans-serif;font-size:16px;line-height:1.5;font-weight:300;
+    	background-color : #CDCDCD;
+	}
+    	.content
+	{
+    		width : 900px;
+    		padding : 25px 30px;
+    		margin : 25px auto;
+    		background-color : #fff;
+    		box-shadow: 0px 0px 10px #999;
+    		border-radius: 15px; 
+	}	
+	table
+	{
+		padding: 5px;
+	}
+	
+	table.pub_table,td.pub_td1,td.pub_td2
+	{
+		padding: 8px;
+		width: 850px;
+        border-collapse: separate;
+        border-spacing: 15px;
+        margin-top: -5px;
+	}
+
+	td.pub_td1
+	{
+		width:50px;
+	}
+    td.pub_td1 img
+    {
+        height:120px;
+        width: 160px;
+    }
+	
+	div#container
+	{
+		margin-left: auto;
+		margin-right: auto;
+		width: 820px;
+		text-align: left;
+		position: relative;
+		background-color: #FFF;
+	}
+	div#DocInfo
+	{
+		color: #1367a7;
+		height: 158px;
+	}
+	h4,h3,h2,h1
+	{
+		color: #3B3B3B;
+	}
+	h2
+	{
+		font-size:130%;
+	}
+	p
+	{
+		color: #5B5B5B;
+		margin-bottom: 50px;
+	}
+	p.caption
+	{
+		color: #9B9B9B;
+		text-align: left;
+		width: 600px;
+	}
+	p.caption2
+	{
+		color: #9B9B9B;
+		text-align: left;
+		width: 800px;
+	}
+	#header_img
+	{
+		position: absolute;
+		top: 0px; right: 0px;
+    }
+	a:link,a:visited
+	{
+		color: #1367a7;
+		text-decoration: none;
+	}
+
+    #mit_logo {
+        position: absolute;
+        left: 646px;
+        top: 14px;
+        width: 200px;
+        height: 20px;
+    }
+   
+    table.pub_table tr {
+        outline: thin dotted #666666;
+    }
+    .papericon {
+        border-radius: 8px; 
+        -moz-box-shadow: 3px 3px 6px #888;
+        -webkit-box-shadow: 3px 3px 6px #888;
+        box-shadow: 3px 3px 6px #888;
+	height:120px;
+        width: 160px;
+	margin-top:5px;
+	margin-left:5px;
+	margin-bottom:5px;
+    }
+
+     .papericon_blank {
+
+        width: 160px;
+	margin-top:5px;
+	margin-left:5px;
+	margin-bottom:5px;
+    }
+
+    .media {
+	outline: thin dotted #666666;
+ 	margin-bottom: 15px;	
+	margin-left:10px;
+    }
+    .media-body {
+	margin-top:5px;
+	padding-left:20px;
+    }
+
+.papers-selected h5, .papers-selected h4 { display : none; }
+.papers-selected .publication { display : none; }
+.paperhi-only { display : none; }
+.papers-selected .paperhi { display : flex; }
+.papers-selected .paperlo { display : none; }
+
+.hidden>div {
+	display:none;
+}
+
+.visible>div {
+	display:block;
+}
+</style>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-23931362-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-23931362-2');
+</script>
+
+<script type="text/javascript">
+    var myPix = new Array("image/bolei_20191122.jpg")
+    function choosePic() {
+        var randomNum = Math.floor(Math.random() * myPix.length);
+        document.getElementById("myPicture").src = myPix[randomNum];
+    };
+</script>
+
+<script>
+$(document).ready(function() {
+  $('.paperlo button').click(function() {
+     $('.papers-container').addClass('papers-selected');
+  });
+  $('.paperhi button').click(function() {
+     $('.papers-container').removeClass('papers-selected');
+  });
+
+
+	$('.text_container').addClass("hidden");
+
+	$('.text_container').click(function() {
+		var $this = $(this);
+
+		if ($this.hasClass("hidden")) {
+			$(this).removeClass("hidden").addClass("visible");
+			$(this).removeClass("papericon");
+		} else {
+			$(this).removeClass("visible").addClass("hidden");
+		}
+	});
+
+
+});
+</script>
 
 </head>
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-    <link rel="stylesheet" href="/assets/css/style.css?v=686027aeec6fcff9bf872b263677d52d6cfc857d">
-  </head>
-  <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      
-      <h1><a href="https://wsycuhk.github.io/">Shuoyao Wang's Homepage 王朔遥</a></h1>
-      
+<body>
+<div class="content">
+	<div id="container">
 
-<table >
-<col width="10" />
-<col width="100" />
-<tr>
-<td align='right' width="15">
-<a href="./gongzuozheng_small.jpg"><img src="./gongzuozheng_small.jpg" alt="Photo" width="150";" /></a>  </td>
-<td align='left'>
- <p>Assistant Professor (tenure-track) <br />
-B.Eng, PhD@CUHK <br />
-College of Electronic and Information Engineering <br />
-Shenzhen University <br />
-<a href="https://scholar.google.com.hk/citations?user=Bx2v5H8AAAAJ&amp;hl=en" rel="nofollow">[Google Scholar]</a>
-<a href="https://github.com/wsycuhk.github.io">[Github]</a></p>
-</td></tr></table>
+	<table>
+	<tbody><tr>
+	<td><img id="myPicture" src="./gongzuozheng_small.jpg" style="float:left; padding-right:20px" height="200px"></td>
+	<script>choosePic();</script>
+	<td>
+	<div id="DocInfo">
+		<h1>Shuoyao Wang</h1>
+        Assistant Professor (tenure-track)<br>
+	College of Electronic and Information Engineering, Shenzhen University<br>
+         <!--Office: Room 717, Ho Sin-Hang Engineering Building<br> -->
+        Email: w.shuoy@gmail.com<br>
+        <a href="CV_web.pdf">CV</a> &bull; <a href="https://scholar.google.com.hk/citations?user=Bx2v5H8AAAAJ&amp;hl=en" rel="nofollow">[Google Scholar]</a> &bull; <a href="https://github.com/wsycuhk.github.io">[Github]</a></p><br>
+	</div><br>
+    <!--
+    <div id="mit_logo">
+        <a href="http://www.mit.edu"><img src="image/mit.gif" height="170px" class="papericon" /></a>
+    </div>
+    -->
+	</td>
+	</tr>
+	</tbody></table>
+	<br>
 
 
-
-<h2 id="recent-news">Recent News</h2>
-<p>Our paper “Locational detection of false data injection attack in smart grid: a multi-label classification approach” is accepted by IEEE Internet of Things Journal. The data and implementation cound be find in <a href="https://github.com/wsyCUHK/WSYCUHK_FDIA">github</a>.</p>
-
-<h2 id="biography">Biography</h2>
-<ul>
-  <li>2020-Current Assistant Professor in College of Electronic and Information Engineering, Shenzhen University, Shenzhen</li>
-  <li>2018-2020 Senior Researcher in Department of Anti-money Laundering and Riskmanagement, Tencent, Shenzhen</li>
-  <li>2018-2018 Postdoc Research Fellow in Information Engineering, The Chinese University of Hong Kong (CUHK), Hong Kong</li>
-  <li>2013-2018 Ph. D. in Information Engineering, CUHK, Hong Kong</li>
-  <li>2011-2013 Bachelor of Enigneering in Information Enigneering, CUHK, Hong Kong</li>
-  <li>2009-2011 Bachelor of Science in Electronical Information Science and Technology, Sun Yat-Sen University, Guangzhou</li>
-</ul>
-
-<p>Shuoyao Wang received the B.Eng. degree (with first class Hons.) and the Ph.D degree in information engineering from The Chinese University of Hong Kong, Hong Kong, in 2013 and 2018, respectively. From 2018 to 2020, he was an senior researcher with the Department of Risk Management, Tencent, Shenzhen, China. Since 2020, he has been with the College of Electronic and Information Engineering, Shenzhen University, Shenzhen, China, where he is currently an Assistant Professor. His research interests include optimization theory, operational research, and machine learning in Multimedia Processing, Smart Grid, and Communications.</p>
-
-<h2 id="research-interests">Research Interests</h2>
-<ul>
-  <li>Multimedia Process and Machine Learning</li>
+	<h2>Research Interests</h2>
+    <ul>
+        <li>Multimedia Process and Machine Learning</li>
   <li>(Smart Grid) Communication</li>
   <li>Power system and Internet of Things</li>
-</ul>
+<!--     
+   <li> My representative work includes the large-scale scene benchmarks <a href="http://places2.csail.mit.edu">Places Database and Places-CNN</a>, <a href="http://groups.csail.mit.edu/vision/datasets/ADE20K/">ADE20K Dataset</a>, as well as neural network interpretation methods <a href="http://cnnlocalization.csail.mit.edu/">Class Activation Mapping (CAM)</a> and <a href="http://netdissect.csail.mit.edu/">Network Dissection</a>. Recently I investigate video scene understanding, with
+     work <a href="http://relation.csail.mit.edu/">Temporal Relational Reasoning</a> and <a href="http://moments.csail.mit.edu/">Moments in Time</a>.</li> 
+-->
+    </ul>
+	
+    <h2>News</h2>
+    <ul>
+    	<li>Our paper “Locational detection of false data injection attack in smart grid: a multi-label classification approach” is accepted by IEEE Internet of Things Journal. The data and implementation cound be find in <a href="https://github.com/wsyCUHK/WSYCUHK_FDIA">github</a>.</li>
+    </ul>
 
-<h2 id="publications">Publications</h2>
-<h3 id="journal">Journal</h3>
+<h2>Publications</h2>
+	<h3 id="journal"> <font size=3>Journal</font></h3>
 <ul>
   <li><strong>S. Wang</strong>, S. Bi, and Y. J. Zhang, “Locational detection of false data injection attack in smart grid: a multi-label classification approach,” IEEE Internet of Things Journal, DOI:10.1109/JIOT.2020.2983911, March 2020.<a href="https://github.com/wsyCUHK/WSYCUHK_FDIA">[Github]</a></li>
   <li><strong>S. Wang</strong>, S. Bi, and Y. J. Zhang, “Reinforcement learning for real-time pricing and scheduling control in EV charging stations,” IEEE Transactions on Industrial Informatics, DOI:10.1109/TII.2019.2950809, November 2019.<a href="https://github.com/wsyCUHK/Reinforcement-Learning-for-Real-time-Pricing-and-Scheduling-Control-in-EV-Charging-Stations">[Github]</a></li>
@@ -91,30 +256,27 @@ Shenzhen University <br />
   <li><strong>S. Wang</strong>, S. Bi, Y. J. Zhang, and J. W. Huang, “Electrical vehicle charging station profit maximization: admission, pricing, and online Scheduling,” IEEE Transactions on Sustainable Energy, vol. 9, no. 4, pp. 1722-1731, October 2018.</li>
 </ul>
 
-<h3 id="conference">Conference</h3>
+<h3 id="conference"><font size=3>Conference</font></h3>
 <ul>
   <li><strong>S. Wang</strong> and D. Zhu, “Interpretable multimodal learning for intelligent regulation in online payment systems,” is during rebuttal in IJCAI 2020.</li>
   <li><strong>S. Wang</strong>, S. Bi, and Y. J. Zhang, “A reinforcement learning approach for EV charging station dynamic pricing and scheduling control,” IEEE Power &amp; Energy Society General Meeting, Portland, OR, USA, August 2018.</li>
   <li><strong>S. Wang</strong>, S. Bi, and Y. J. Zhang, “The impacts of energy customers demand response on real-time electricity market participants,” IEEE ICC, Kansas City, MO, USA, May 2018.</li>
 </ul>
 
-<h3 id="patent">Patent</h3>
+<h3 id="patent"><font size=3>Patent</font></h3>
 <ul>
   <li><strong>S. Wang</strong>,  Text classification with heterogeneous random walk and network embedding, 2019-08-16，China Patent 2019107607855</li>
 </ul>
 
-<h2 id="linkes">Usefull Links</h2>
-<ul>
+
+
+	<h2>Usefull Links</h2>
+		<ul>
 <li>PhD Supervisor: <a href="https://staff.ie.cuhk.edu.hk/~yjzhang/">Ying-jun Angela Zhang</a>, IEEE Fellow, The Chines University of Hong Kong, Hong Kong. </li>
 <li>Co-auther: <a href="http://jianwei.ie.cuhk.edu.hk/">Jianwei Huang</a>, IEEE Fellow, The Chinese University of Hong Kong, Shenzhen. </li>
 <li>Co-auther: <a href="https://sites.google.com/site/bisuzhi/">Suzhi Bi</a>, Pearl River Young Scholar, Shenzhen University, Shenzhen. </li>
 </ul>
-      
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-    
-  </body>
-	
 
-</html>
+</div>
+</div>
+</body></html>
